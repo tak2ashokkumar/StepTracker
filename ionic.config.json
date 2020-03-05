@@ -1,5 +1,7 @@
 {
   "name": "StepTracker",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
